@@ -1,4 +1,4 @@
-# Quiz on security topic
+# Quiz on multiple topics
 
-A simple quiz with questions from the security field.
-This is a project for the SSC class, ACS UPB 
+A simple quiz with questions from the cybersecurity, java, general knowledge fields.
+This is a project for the ECIP class, ACS UPB 
