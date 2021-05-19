@@ -1,35 +1,35 @@
 {
     "id": 1,
-    "name": "Securitatea Sistemelor de Calcul",
-    "description": "Verificare SSC",
+    "name": "Cultura generala",
+    "description": "Cat de vaste sunt cunostintele tale generale?",
     "questions": [
         {
             "id": 1010,
-            "name": "Care este comanda Linux pentru accesarea configurarilor de retea?",
+            "name": "Ce semnifica acronimul 'www' de pe Internet?",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
+                    "id": 1001,
                     "questionId": 1010,
-                    "name": "ipconfig",
+                    "name": "White Walker Web",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
+                    "id": 1002,
                     "questionId": 1010,
-                    "name": "ifconfig",
+                    "name": "World Wide Web",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
+                    "id": 1003,
                     "questionId": 1010,
-                    "name": "chkconfig",
+                    "name": "While Web Works",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
+                    "id": 1004,
                     "questionId": 1010,
-                    "name": "netstat",
+                    "name": "World White Web",
                     "isAnswer": false
                 }
             ],
@@ -41,31 +41,31 @@
         },
         {
             "id": 1011,
-            "name": "Ce utilitar s-a folosit in operatia de hardening automat?",
+            "name": "Ce lungime are o piscina olimpica(m)?",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
-                    "name": "Perl",
+                    "id": 1005,
+                    "questionId": 1011,
+                    "name": "20",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
-                    "name": "Curses",
+                    "id": 1006,
+                    "questionId": 1011,
+                    "name": "150",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
-                    "name": "Bastille",
+                    "id": 1007,
+                    "questionId": 1011,
+                    "name": "50",
                     "isAnswer": true
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
-                    "name": "GNOME",
+                    "id": 1008,
+                    "questionId": 1011,
+                    "name": "200",
                     "isAnswer": false
                 }
             ],
@@ -77,31 +77,31 @@
         },
         {
             "id": 1012,
-            "name": "Care din urmatoarele nu este o caracteristica a algoritmilor de criptare simetrici?",
+            "name": "Din ce tara fac parte urmatoarele orase: Perth, Brisbane, Adelaide?",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
-                    "name": "Rapiditate",
+                    "id": 1021,
+                    "questionId": 1012,
+                    "name": "Noua Zeelanda",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
-                    "name": "Rezistenta la atacuri",
+                    "id": 1022,
+                    "questionId": 1012,
+                    "name": "Australia",
                     "isAnswer": true
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
-                    "name": "Folosesc aceeasi cheie pentru criptare/decriptare",
+                    "id": 1023,
+                    "questionId": 1012,
+                    "name": "Statele Unite ale Americii",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
-                    "name": "Sunt folositi pentru volume mari de date",
+                    "id": 1024,
+                    "questionId": 1012,
+                    "name": "Marea Britanie",
                     "isAnswer": false
                 }
             ],
@@ -113,31 +113,31 @@
         },
         {
             "id": 1013,
-            "name": "Cate categorii de utilizatori ai sistemului Linux cunoasteti?",
+            "name": "Cate limbi sunt scrise de la dreapta la stanga?",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": 1025,
+                    "questionId": 1013,
                     "name": "2",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
-                    "name": "3",
+                    "id": 1026,
+                    "questionId": 1013,
+                    "name": "12",
                     "isAnswer": true
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
-                    "name": "1",
+                    "id": 1027,
+                    "questionId": 1013,
+                    "name": "8",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
-                    "name": "4",
+                    "id": 1028,
+                    "questionId": 1013,
+                    "name": "6",
                     "isAnswer": false
                 }
             ],
@@ -149,31 +149,31 @@
         },
         {
             "id": 1014,
-            "name": "Care din urmatoarele nu caracterizeaza o parola puternica?",
+            "name": "Cine a fost prima femeie care a castigat Premiul Nobel (1903)?",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
-                    "name": "secreta",
+                    "id": 1029,
+                    "questionId": 1014,
+                    "name": "Bertha von Suttner",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
-                    "name": "privata",
+                    "id": 1030,
+                    "questionId": 1014,
+                    "name": "Selma Lagerlöf",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
-                    "name": "contine informatii personale",
+                    "id": 1031,
+                    "questionId": 1014,
+                    "name": "Marie Curie",
                     "isAnswer": true
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
-                    "name": "contine litere mici si mari, cifre si simboluri",
+                    "id": 1032,
+                    "questionId": 1014,
+                    "name": "Maica Tereza",
                     "isAnswer": false
                 }
             ],
@@ -185,31 +185,31 @@
         },
         {
             "id": 1015,
-            "name": "Ce utilitar este folosit in procesul de audit?",
+            "name": "Care este cel mai mare ocean de pe planeta?",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
-                    "name": "Syslog",
+                    "id": 1033,
+                    "questionId": 1015,
+                    "name": "Oceanul Pacific",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
-                    "name": "Logrotate",
+                    "id": 1034,
+                    "questionId": 1015,
+                    "name": "Oceanul Indian",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
-                    "name": "Swatch",
+                    "id": 1035,
+                    "questionId": 1015,
+                    "name": "Oceanul Atlantic",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
-                    "name": "Logsentry",
+                    "id": 1036,
+                    "questionId": 1015,
+                    "name": "Oceanul Arctic",
                     "isAnswer": false
                 }
             ],
@@ -221,31 +221,31 @@
         },
         {
             "id": 1016,
-            "name": "Din ce categorie de atacuri asupra integritatii sistemului fac parte programele de tip cal Troian?",
+            "name": "Ce este cinofobia?",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
-                    "name": "Instalare de binare modificate",
+                    "id": 1037,
+                    "questionId": 1016,
+                    "name": "Frica de cifra 5",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
-                    "name": "Modificare kernel",
+                    "id": 1038,
+                    "questionId": 1016,
+                    "name": "Frica de cinema",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
-                    "name": "DOS (Denial Of Service)",
+                    "id": 1039,
+                    "questionId": 1016,
+                    "name": "Frica de inaltime",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
-                    "name": "Stepping Stones",
+                    "id": 1040,
+                    "questionId": 1016,
+                    "name": "Frica de catei",
                     "isAnswer": true
                 }
             ],
@@ -257,31 +257,31 @@
         },
         {
             "id": 1017,
-            "name": "In ce director se gasesc fisierele de configurare in Linux?",
+            "name": "In ce an a fost daramat Zidul Berlinului?",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
-                    "name": "/bin",
+                    "id": 1041,
+                    "questionId": 1017,
+                    "name": "1990",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
-                    "name": "/etc",
+                    "id": 1042,
+                    "questionId": 1017,
+                    "name": "1989",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
-                    "name": "/lib",
+                    "id": 1043,
+                    "questionId": 1017,
+                    "name": "1976",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
-                    "name": "/dev",
+                    "id": 1044,
+                    "questionId": 1017,
+                    "name": "1945",
                     "isAnswer": false
                 }
             ],
@@ -293,31 +293,31 @@
         },
         {
             "id": 1018,
-            "name": "Ce program porneste sistemul la pornirea calculatorului?",
+            "name": "Ce tara a castigat primul Campionat Mondial de fotbal (1930)?",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
-                    "name": "Master Boot Recorder",
+                    "id": 1045,
+                    "questionId": 1018,
+                    "name": "Germania",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
-                    "name": "Bootloader",
+                    "id": 1046,
+                    "questionId": 1018,
+                    "name": "Uruguay",
                     "isAnswer": true
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
-                    "name": "BIOS",
+                    "id": 1047,
+                    "questionId": 1018,
+                    "name": "Franta",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
-                    "name": "Boot Signature",
+                    "id": 1048,
+                    "questionId": 1018,
+                    "name": "Brazilia",
                     "isAnswer": false
                 }
             ],
@@ -329,31 +329,31 @@
         },
         {
             "id": 1019,
-            "name": "Cum poate fi identificat responsabilul unei actiuni ce a cauzat un defect in sistem?",
+            "name": "In ce tara au luat nastere Jocurile Olimpice?",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
-                    "name": "Camere video",
+                    "id": 1049,
+                    "questionId": 1019,
+                    "name": "Japonia",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
-                    "name": "Nu este posibil",
+                    "id": 1050,
+                    "questionId": 1019,
+                    "name": "Rusia",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
-                    "name": "Cozi de audit",
+                    "id": 1051,
+                    "questionId": 1019,
+                    "name": "Grecia",
                     "isAnswer": true
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
-                    "name": "Contabilitatea proceselor",
+                    "id": 1052,
+                    "questionId": 1019,
+                    "name": "Statele Unite ale Americii",
                     "isAnswer": false
                 }
             ],

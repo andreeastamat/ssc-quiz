@@ -1,0 +1,367 @@
+{
+  "id": 3,
+  "name": "Securitate informatica",
+  "description": "Esti la curent cu practicile de cybersecurity?",
+  "questions": [
+    {
+      "id": 3010,
+      "name": "Cu ce difera 'https://' de la inceputul unui URL fata de 'http://'?",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "id": 3055,
+          "questionId": 3010,
+          "name": "Pagina respectiva nu este accesibila anumitor calculatoare",
+          "isAnswer": false
+        },
+        {
+          "id": 3056,
+          "questionId": 3010,
+          "name": "Datele introduse pe acea pagina sunt criptate",
+          "isAnswer": true
+        },
+        {
+          "id": 3057,
+          "questionId": 3010,
+          "name": "Adresa nu este una sigura",
+          "isAnswer": false
+        },
+        {
+          "id": 3058,
+          "questionId": 3010,
+          "name": "Nicio varianta de mai sus",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 3011,
+      "name": "Care dintre urmatoarele reprezinta o parola puternica?",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "id": 3059,
+          "questionId": 3011,
+          "name": "parola",
+          "isAnswer": false
+        },
+        {
+          "id": 3060,
+          "questionId": 3011,
+          "name": "123456",
+          "isAnswer": false
+        },
+        {
+          "id": 3061,
+          "questionId": 3011,
+          "name": "WTh!5Z@",
+          "isAnswer": true
+        },
+        {
+          "id": 3062,
+          "questionId": 3011,
+          "name": "password23",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 3012,
+      "name": "Ce practici restrictioneaza accesul nedorit catre fisierele si dispozitivele tale?",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "id": 3063,
+          "questionId": 3012,
+          "name": "Update de software o data pe an",
+          "isAnswer": false
+        },
+        {
+          "id": 3064,
+          "questionId": 3012,
+          "name": "Two-step authentication",
+          "isAnswer": true
+        },
+        {
+          "id": 3065,
+          "questionId": 3012,
+          "name": "Impartasirea parolelor cu prietenii apropiati",
+          "isAnswer": false
+        },
+        {
+          "id": 3066,
+          "questionId": 3012,
+          "name": "Conectarea la retele wifi publice",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 3013,
+      "name": "Cum se numesc atacurile in care datele utilizatorilor sunt blocate pana ce acestia platesc hackerilor o suma pentru recuperarea acestora?",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "id": 3067,
+          "questionId": 3013,
+          "name": "Denial of Service",
+          "isAnswer": false
+        },
+        {
+          "id": 3068,
+          "questionId": 3013,
+          "name": "Ransomware",
+          "isAnswer": true
+        },
+        {
+          "id": 3069,
+          "questionId": 3013,
+          "name": "Phishing",
+          "isAnswer": false
+        },
+        {
+          "id": 3070,
+          "questionId": 3013,
+          "name": "Man in the middle",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 3014,
+      "name": "Care este primul pas ce trebuie urmat de catre victimele atacurilor de tip Ransomware?",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "id": 3071,
+          "questionId": 3014,
+          "name": "Efectuarea platii catre hackeri",
+          "isAnswer": false
+        },
+        {
+          "id": 3072,
+          "questionId": 3014,
+          "name": "Nu se poate face nimic",
+          "isAnswer": false
+        },
+        {
+          "id": 3073,
+          "questionId": 3014,
+          "name": "Deconectarea calculatorului de la retea",
+          "isAnswer": true
+        },
+        {
+          "id": 3074,
+          "questionId": 3014,
+          "name": "Apel la 112",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 3015,
+      "name": "Care este metoda de initiere a atacurilor de tip phishing?",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "id": 3075,
+          "questionId": 3015,
+          "name": "E-mail ce contine link-uri",
+          "isAnswer": true
+        },
+        {
+          "id": 3076,
+          "questionId": 3015,
+          "name": "Fisier executabil",
+          "isAnswer": false
+        },
+        {
+          "id": 3077,
+          "questionId": 3015,
+          "name": "Toate variantele",
+          "isAnswer": false
+        },
+        {
+          "id": 3078,
+          "questionId": 3015,
+          "name": "Dispozitiv USB necunoscut",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 3016,
+      "name": "Ce este un Botnet?",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "id": 3079,
+          "questionId": 3016,
+          "name": "Un virus care sterge toate fisierele de pe un computer",
+          "isAnswer": false
+        },
+        {
+          "id": 3080,
+          "questionId": 3016,
+          "name": "Un program malitios care ascunde date pe un computer pentru a nu putea fi gasite",
+          "isAnswer": false
+        },
+        {
+          "id": 3081,
+          "questionId": 3016,
+          "name": "Nicio varianta nu este corecta",
+          "isAnswer": false
+        },
+        {
+          "id": 3082,
+          "questionId": 3016,
+          "name": "Un grup de calculatoare interconectate ce ruleaza programe malitioase si sunt operate de hackeri",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 3017,
+      "name": "Cum ne putem proteja dispozitivele in public?",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "id": 3083,
+          "questionId": 3017,
+          "name": "Conectarea la retele wifi publice",
+          "isAnswer": false
+        },
+        {
+          "id": 3084,
+          "questionId": 3017,
+          "name": "Folosirea VPN (Virtual Private Network)",
+          "isAnswer": true
+        },
+        {
+          "id": 3085,
+          "questionId": 3017,
+          "name": "Conectarea la retele protejate cu parola",
+          "isAnswer": false
+        },
+        {
+          "id": 3086,
+          "questionId": 3017,
+          "name": "Toate variantele sunt corecte",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 3018,
+      "name": "Ce simbol exprima faptul ca pagina pe care ne aflam este securizata?",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "id": 3087,
+          "questionId": 3018,
+          "name": "Scut",
+          "isAnswer": false
+        },
+        {
+          "id": 3088,
+          "questionId": 3018,
+          "name": "Lacat",
+          "isAnswer": true
+        },
+        {
+          "id": 3089,
+          "questionId": 3018,
+          "name": "Sageata",
+          "isAnswer": false
+        },
+        {
+          "id": 3090,
+          "questionId": 3018,
+          "name": "Casa",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 3019,
+      "name": "ce tip de atac tinteste anumite persoane sau organizatii, nefiind aleatoriu??",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "id": 3091,
+          "questionId": 3019,
+          "name": "Ransomware",
+          "isAnswer": false
+        },
+        {
+          "id": 3092,
+          "questionId": 3019,
+          "name": "Phishing",
+          "isAnswer": false
+        },
+        {
+          "id": 3093,
+          "questionId": 3019,
+          "name": "Spear fishing",
+          "isAnswer": true
+        },
+        {
+          "id": 3094,
+          "questionId": 3019,
+          "name": "Viermi",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    }
+  ]
+}

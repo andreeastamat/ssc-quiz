@@ -1,0 +1,367 @@
+{
+  "id": 2,
+  "name": "Cunostinte standard Java",
+  "description": "Cat de bine cunosti limbajul Java?",
+  "questions": [
+    {
+      "id": 2010,
+      "name": "Ce valoare implicita are o variabila de tipul long?",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "id": 2055,
+          "questionId": 2010,
+          "name": "null",
+          "isAnswer": false
+        },
+        {
+          "id": 2056,
+          "questionId": 2010,
+          "name": "0L",
+          "isAnswer": true
+        },
+        {
+          "id": 2057,
+          "questionId": 2010,
+          "name": "0",
+          "isAnswer": false
+        },
+        {
+          "id": 2058,
+          "questionId": 2010,
+          "name": "0.0",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 2011,
+      "name": "Ce reprezinta NullPointerException?",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "id": 2059,
+          "questionId": 2011,
+          "name": "O exceptie ce apare atunci cand unui obiect ii este setata valoarea 'null'",
+          "isAnswer": false
+        },
+        {
+          "id": 2060,
+          "questionId": 2011,
+          "name": "O exceptie ce apare atunci cand unui obiect ii este setata o poprietate pe valoarea 'null'",
+          "isAnswer": false
+        },
+        {
+          "id": 2061,
+          "questionId": 2011,
+          "name": "O exceptie ce apare cand se incearca apelarea instantei unui obiect null sau accesarea/modificarea campurilor unui obiect null",
+          "isAnswer": true
+        },
+        {
+          "id": 2062,
+          "questionId": 2011,
+          "name": "Niciuna din variantele de mai sus",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 2012,
+      "name": "Ce se intampla cand este apelata metoda sleep() pentru un thread?",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "id": 2063,
+          "questionId": 2012,
+          "name": "Thread-ul revine in starea 'ready'",
+          "isAnswer": false
+        },
+        {
+          "id": 2064,
+          "questionId": 2012,
+          "name": "Thread-ul revine in starea de asteptare",
+          "isAnswer": true
+        },
+        {
+          "id": 2065,
+          "questionId": 2012,
+          "name": "Thread-ul incepe sa se execute",
+          "isAnswer": false
+        },
+        {
+          "id": 2066,
+          "questionId": 2012,
+          "name": "Niciuna din variantele de mai sus",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 2013,
+      "name": "Ce este incapsularea?",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "id": 2067,
+          "questionId": 2013,
+          "name": "Conceptul conform caruia sunt definite mai multe metode de acelasi tip",
+          "isAnswer": false
+        },
+        {
+          "id": 2068,
+          "questionId": 2013,
+          "name": "Conceptul conform caruia campurile unei clase sunt private, accesul la acestea realizandu-se prin metode publice",
+          "isAnswer": true
+        },
+        {
+          "id": 2069,
+          "questionId": 2013,
+          "name": "Abilitatea unui obiect de a avea mai multe forme",
+          "isAnswer": false
+        },
+        {
+          "id": 2070,
+          "questionId": 2013,
+          "name": "Posibilitatea unei clase de a mosteni comportamente de la o clasa parinte",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 2014,
+      "name": "Ce afirmatie este adevarata despre String?",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "id": 2071,
+          "questionId": 2014,
+          "name": "Este o constanta",
+          "isAnswer": false
+        },
+        {
+          "id": 2072,
+          "questionId": 2014,
+          "name": "Este mutabil",
+          "isAnswer": false
+        },
+        {
+          "id": 2073,
+          "questionId": 2014,
+          "name": "Este imutabil",
+          "isAnswer": true
+        },
+        {
+          "id": 2074,
+          "questionId": 2014,
+          "name": "Niciuna din variantele de mai sus",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 2015,
+      "name": "Care este modul corect de definire a metodei 'main' pentru o clasa Java?",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "id": 2075,
+          "questionId": 2015,
+          "name": "public static void main(String[] args)",
+          "isAnswer": true
+        },
+        {
+          "id": 2076,
+          "questionId": 2015,
+          "name": "public static int main(String[] args)",
+          "isAnswer": false
+        },
+        {
+          "id": 2077,
+          "questionId": 2015,
+          "name": "public void main(String[] args)",
+          "isAnswer": false
+        },
+        {
+          "id": 2078,
+          "questionId": 2015,
+          "name": "public int main(String[] args)",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 2016,
+      "name": "Ce este un obiect imutabil?",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "id": 2079,
+          "questionId": 2016,
+          "name": "Un obiect care poate fi modificat dupa ce a fost creat",
+          "isAnswer": false
+        },
+        {
+          "id": 2080,
+          "questionId": 2016,
+          "name": "O instanta a unei interfete",
+          "isAnswer": false
+        },
+        {
+          "id": 2081,
+          "questionId": 2016,
+          "name": "O instanta a unei clase abstracte",
+          "isAnswer": false
+        },
+        {
+          "id": 2082,
+          "questionId": 2016,
+          "name": "Un obiect care nu mai poate fi modificat dupa ce a fost creat",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 2017,
+      "name": "Ce dimensiune are o variabila de tip int (biti)?",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "id": 2083,
+          "questionId": 2017,
+          "name": "8",
+          "isAnswer": false
+        },
+        {
+          "id": 2084,
+          "questionId": 2017,
+          "name": "32",
+          "isAnswer": true
+        },
+        {
+          "id": 2085,
+          "questionId": 2017,
+          "name": "16",
+          "isAnswer": false
+        },
+        {
+          "id": 2086,
+          "questionId": 2017,
+          "name": "64",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 2018,
+      "name": "Ce sunt clasele Wrapper?",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "id": 2087,
+          "questionId": 2018,
+          "name": "Clase ce ascund functionalitatea unei alte clase",
+          "isAnswer": false
+        },
+        {
+          "id": 2088,
+          "questionId": 2018,
+          "name": "Clase ce permit tipurilor de date primitive sa fie accesate ca si obiecte",
+          "isAnswer": true
+        },
+        {
+          "id": 2089,
+          "questionId": 2018,
+          "name": "Ambele variante de mai sus sunt corecte",
+          "isAnswer": false
+        },
+        {
+          "id": 2090,
+          "questionId": 2018,
+          "name": "Niciuna din variantele de mai sus",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 2019,
+      "name": "Ce valoare implicita are o variabila de tipul short?",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "id": 2091,
+          "questionId": 2019,
+          "name": "0",
+          "isAnswer": false
+        },
+        {
+          "id": 2092,
+          "questionId": 2019,
+          "name": "null",
+          "isAnswer": false
+        },
+        {
+          "id": 2093,
+          "questionId": 2019,
+          "name": "0.0",
+          "isAnswer": true
+        },
+        {
+          "id": 2094,
+          "questionId": 2019,
+          "name": "undefined",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    }
+  ]
+}

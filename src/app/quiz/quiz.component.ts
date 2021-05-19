@@ -1,8 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 import { QuizService } from '../services/quiz.service';
-import { HelperService } from '../services/helper.service';
-import { Option, Question, Quiz, QuizConfig } from '../models/index';
+import { Option, Question, Quiz, QuizConfig } from '../models';
 
 @Component({
   selector: 'app-quiz',
@@ -59,6 +58,7 @@ export class QuizComponent implements OnInit {
       this.ellapsedTime = '00:00';
       this.timer = setInterval(() => { this.tick(); }, 1000);
       this.duration = this.parseTime(this.config.duration);
+      this.procent = 0;
     });
     this.mode = 'quiz';
   }
@@ -118,7 +118,6 @@ export class QuizComponent implements OnInit {
     this.procent = this.correctAnswersCount * 100 / this.quiz.questions.length;
 
     // Post your data to the server here. answers contains the questionId and the users' answer.
-    console.log(this.quiz.questions);
     this.mode = 'result';
   }
 }

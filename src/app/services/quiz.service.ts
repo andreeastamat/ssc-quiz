@@ -12,7 +12,9 @@ export class QuizService {
 
   getAll() {
     return [
-      { id: 'data/ssc.json', name: 'Securitatea Sistemelor de Calcul' }
+      { id: 'data/general.json', name: 'Cultura generala' },
+      { id: 'data/java.json', name: 'Cunostinte standard Java' },
+      { id: 'data/cybersecurity.json', name: 'Securitate informatica' }
     ];
   }
 
